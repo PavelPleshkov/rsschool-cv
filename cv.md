@@ -14,3 +14,7 @@ Skype: [pashapleshkov](skype:pashapleshkov?chat)
 
 [GitHub](https://github.com/PavelPleshkov)
 
+
+## Summary
+I strive to change the sphere of professional activity and become a great frontend specialist, I am engaged in self-education and study in courses. I am attracted by the ability to constantly move forward.
+
