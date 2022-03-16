@@ -16,20 +16,20 @@ I strive to change the sphere of professional activity and become a great fronte
 
 ## Skills
 
-**HTML/CSS coding:**
-HTML5, CSS3/SCSS/Less, Responsive valid coding, Bootstrap, BEM
-**JavaScript:**
-ECMAScript 5, 6, OOP, DOM, Events, callback, Promises, AJAX
-**Project builders:**
-WebPack
-**Package managers:**
-NPM
-**IDE:**
-VS Code
-**Git system, tools:**
-Git, GitHub, GitKraken
-**Graphics editor:**
-Figma, Adobe Photoshop with Zeplin, Adobe Assets
+**HTML/CSS coding:**  
+HTML5, CSS3/SCSS/Less, Responsive valid coding, Bootstrap, BEM  
+**JavaScript:**  
+ECMAScript 5, 6, OOP, DOM, Events, callback, Promises, AJAX  
+**Project builders:**  
+WebPack  
+**Package managers:**  
+NPM  
+**IDE:**  
+VS Code  
+**Git system, tools:**  
+Git, GitHub, GitKraken  
+**Graphics editor:**  
+Figma, Adobe Photoshop with Zeplin, Adobe Assets  
 
 ## Code examples
 
