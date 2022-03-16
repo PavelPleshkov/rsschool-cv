@@ -56,7 +56,7 @@ Faculty: Power engineering
 Specialization: Heat power stations
 
 Courses:
-- Educational Center for Programming and High Tech (IT-Academy) - ["WEB application development with JavaScript"](https://yadi.sk/i/gE5JL-81Hlw-yA)
+- Trainee, Educational Center for Programming and High Tech (IT-Academy) - ["WEB application development with JavaScript"](https://yadi.sk/i/gE5JL-81Hlw-yA)
 
 - Geekbrains Mail.Ru Group: 
     - ["HTML / CSS. Website Creation Basics"](https://geekbrains.ru/certificates/461144.en), 
@@ -64,8 +64,7 @@ Courses:
     - ["Javascript Level 1. Interactive web applications"](https://geekbrains.ru/certificates/599427.en)
     - ["Javascript Level 2. Web application development"](https://gb.ru/certificates/956020.en)
 
-- International house:
-    -[Pre-intermediate course in English (CEF LEVEL A2)(Certificate no: 0423/18)](https://disk.yandex.by/i/GyZIbDjYS2jL5A)
+- International house: [Pre-intermediate course in English (CEF LEVEL A2)(Certificate no: 0423/18)](https://disk.yandex.by/i/GyZIbDjYS2jL5A)
 
 - [learn.javascript.ru](learn.javascript.ru)
 - htmlacademy
