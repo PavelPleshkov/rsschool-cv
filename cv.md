@@ -38,8 +38,11 @@ Some of code examples see on my [GitHub](https://github.com/PavelPleshkov) and [
 Project [Train hard](https://github.com/PavelPleshkov/TrainHard) with ES6, HTML5, CSS3, SCSS, WebPack, modules, templates  
 Project is the SPA that helps people to do their workouts.  
 The app allows users to select a training target, find recommendations for exercises and rest between them. Also users can save daily training results and keep track of rest time between exercises using a stopwatch with audio signal at the end of rest when need to do the next exercise that allows not to keep track of time.
-[Applied music theory](https://github.com/PavelPleshkov/Applied-Music-Theory) with JS ES6  
-[Taxi](https://pavelpleshkov.github.io/taxi/)([code](https://github.com/PavelPleshkov/taxi)) with HTML5, CSS3, SCSS, bootstrap 4, BEM flat, animation, responsive  
+
+[Applied music theory](https://github.com/PavelPleshkov/Applied-Music-Theory) with JS ES6
+
+[Taxi](https://pavelpleshkov.github.io/taxi/)([code](https://github.com/PavelPleshkov/taxi)) with HTML5, CSS3, SCSS, bootstrap 4, BEM flat, animation, responsive
+
 [Animation](https://pavelpleshkov.github.io/animation/)([code](https://github.com/PavelPleshkov/animation)) with moving image in header (stop it by mouse on it), appearing sections after scroll and something like automatic slider written with help of CSS-animation and no JS, responsive
 
 Coding tests on [LinkedIn](https://www.linkedin.com/in/pavel-pleshkov/)  
